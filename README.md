@@ -16,7 +16,7 @@ pip install tk
 
 2. Navigate to the project directory:
 
-    cd tic-tac-toe-tkinter
+    cd TicTacToeTkinter
 
 
 3. Run the game:
