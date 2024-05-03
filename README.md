@@ -1,6 +1,6 @@
 # Tic Tac Toe Game with Tkinter
 
-This project is a simple implementation of the classic Tic Tac Toe game using the Tkinter library in Python. You can play against the computer or another player, select X or O, and choose which player goes first.
+This project is a simple implementation of the classic Tic Tac Toe game using the Tkinter library in Python. You can play against the computer or another player, select X or O, and choose which player goes first. This project is designed for a university Python course.
 
 ## Installation
 
